@@ -1,0 +1,15 @@
+{
+  "name": "leaderadmin",
+  "version": "1.0.0",
+  "description": "xiaoyuan",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@dcloudio/uni-ui": "^1.1.8",
+    "uni-ui": "^1.0.0"
+  }
+}

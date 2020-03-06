@@ -1,0 +1,41 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+       
+        {
+		    "path" : "pages/main/main",
+		    "style" : {}
+		},
+        {
+        	"path": "pages/login/login",
+        	"style": {
+        	}
+        }
+        ,{
+            "path" : "pages/major/major",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/kaoyan/kaoyan",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/work/work",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/discuss/discuss",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/content/topicDetail",
+            "style" : {}
+        },
+        {
+            "path":"pages/content/discussDetail",
+            "style":{}
+        }
+    ],
+	"globalStyle": {
+        "navigationStyle":"custom"
+	}
+}
